@@ -1,7 +1,5 @@
-[
-    {"id": 1, "flower_name": "Tulip"}, 
-    {"id": 2, "flower_name": "Rose"}, 
-    {"id": 3, "flower_name": "Dahlia"}, 
-    {"id": 4, "flower_name": "Narcissus"}
-    {"id": 5, "flower_name": "Iris"}
-]
+{"id": 1, "flower_name": "Tulip"}
+{"id": 2, "flower_name": "Rose"}
+{"id": 3, "flower_name": "Dahlia"}
+{"id": 4, "flower_name": "Narcissus"}
+{"id": 5, "flower_name": "Iris"}
